@@ -1,0 +1,16 @@
+__pycache__
+utils/__pycache__
+tfrecords_check
+tfrecords
+model*
+test
+backup
+.idea
+Datasets
+model_U2OScell
+result
+**.tif
+**.png
+CVPPP2017
+BBBC006
+BBBC006_FCRNet
